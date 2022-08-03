@@ -1,17 +1,23 @@
 <html>
 <head>
 <style>
-
+.nav{
+  background-color: lightgray;
+  
+}
+.a{
+  background-color: yellow;
+}
 
 </style>
 </head>
 <body>
 
 <div class="nav">
-  <a>Home</a>
-  <a>click</a>
-  <a>info</a>
-  <a>contact</a>
+  <a href=#>Home</a>
+  <a href=#>click</a>
+  <a href=#>info</a>
+  <a href=#>contact</a>
 </div>
 
 
